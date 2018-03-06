@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "electronhour-desktop",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A desktop app for Everhour built with Electron",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -9,12 +9,12 @@
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Everhour",
+    "Linus",
+    "Löfberg",
+    "lmbl.se"
   ],
-  "author": "GitHub",
+  "author": "Linus Löffberg",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.8.2"
